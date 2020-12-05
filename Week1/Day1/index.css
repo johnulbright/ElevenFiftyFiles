@@ -1,0 +1,39 @@
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: orange;
+}
+
+.purple{
+    color: purple;
+}
+
+#red {
+    color: red;
+}
+
+.box{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+}
+
+button {
+    color: darkblue;
+}
+.btn{
+    background-color: darkgray;
+    padding: 10px;
+    margin: 5px;
+    border: 2px dotted red;
+}
+
+#green{
+    background-color: green;
+    color: white;
+}
